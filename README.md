@@ -53,5 +53,5 @@ This script:
 - If you want to **stop the bot**, simply refresh the page.
 
 ## License
-This project is open-source and free to use.
+This project is licensed under the MIT License.
 
